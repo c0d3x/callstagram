@@ -1,0 +1,505 @@
+
+{
+	"data": [
+	{
+	"id": 1,
+	"numberOfLikes": 12,
+	"imageUrl": "https://s3-eu-west-1.amazonaws.com/dog-ceo-stanford-files/retriever-golden/n02099601_10.jpg"
+	},
+	{
+	"id": 2,
+	"numberOfLikes": 32,
+	"imageUrl": "https://s3-eu-west-1.amazonaws.com/dog-ceo-stanford-files/retriever-golden/n02099601_100.jpg"
+	},
+	{
+	"id": 3,
+	"numberOfLikes": 1,
+	"imageUrl": "https://s3-eu-west-1.amazonaws.com/dog-ceo-stanford-files/retriever-golden/n02099601_1010.jpg"
+	},
+	{
+	"id": 4,
+	"numberOfLikes": 0,
+	"imageUrl": "https://s3-eu-west-1.amazonaws.com/dog-ceo-stanford-files/retriever-golden/n02099601_1028.jpg"
+	},
+	{
+	"id": 5,
+	"numberOfLikes": 2,
+	"imageUrl": "https://s3-eu-west-1.amazonaws.com/dog-ceo-stanford-files/retriever-golden/n02099601_109.jpg"
+	},
+	{
+	"id": 6,
+	"numberOfLikes": 5,
+	"imageUrl": "https://s3-eu-west-1.amazonaws.com/dog-ceo-stanford-files/retriever-golden/n02099601_1162.jpg"
+	},
+	{
+	"id": 7,
+	"numberOfLikes": 33,
+	"imageUrl": "https://s3-eu-west-1.amazonaws.com/dog-ceo-stanford-files/retriever-golden/n02099601_118.jpg"
+	},
+	{
+	"id": 8,
+	"numberOfLikes": 37,
+	"imageUrl": "https://s3-eu-west-1.amazonaws.com/dog-ceo-stanford-files/retriever-golden/n02099601_124.jpg"
+	},
+	{
+	"id": 9,
+	"numberOfLikes": 10,
+	"imageUrl": "https://s3-eu-west-1.amazonaws.com/dog-ceo-stanford-files/retriever-golden/n02099601_1249.jpg"
+	},
+	{
+	"id": 10,
+	"numberOfLikes": 26,
+	"imageUrl": "https://s3-eu-west-1.amazonaws.com/dog-ceo-stanford-files/retriever-golden/n02099601_1259.jpg"
+	},
+	{
+	"id": 11,
+	"numberOfLikes": 5,
+	"imageUrl": "https://s3-eu-west-1.amazonaws.com/dog-ceo-stanford-files/retriever-golden/n02099601_1324.jpg"
+	},
+	{
+	"id": 12,
+	"numberOfLikes": 3,
+	"imageUrl": "https://s3-eu-west-1.amazonaws.com/dog-ceo-stanford-files/retriever-golden/n02099601_14.jpg"
+	},
+	{
+	"id": 13,
+	"numberOfLikes": 14,
+	"imageUrl": "https://s3-eu-west-1.amazonaws.com/dog-ceo-stanford-files/retriever-golden/n02099601_142.jpg"
+	},
+	{
+	"id": 14,
+	"numberOfLikes": 12,
+	"imageUrl": "https://s3-eu-west-1.amazonaws.com/dog-ceo-stanford-files/retriever-golden/n02099601_1442.jpg"
+	},
+	{
+	"id": 15,
+	"numberOfLikes": 0,
+	"imageUrl": "https://s3-eu-west-1.amazonaws.com/dog-ceo-stanford-files/retriever-golden/n02099601_1454.jpg"
+	},
+	{
+	"id": 16,
+	"numberOfLikes": 7,
+	"imageUrl": "https://s3-eu-west-1.amazonaws.com/dog-ceo-stanford-files/retriever-golden/n02099601_146.jpg"
+	},
+	{
+	"id": 17,
+	"numberOfLikes": 34,
+	"imageUrl": "https://s3-eu-west-1.amazonaws.com/dog-ceo-stanford-files/retriever-golden/n02099601_1580.jpg"
+	},
+	{
+	"id": 18,
+	"numberOfLikes": 41,
+	"imageUrl": "https://s3-eu-west-1.amazonaws.com/dog-ceo-stanford-files/retriever-golden/n02099601_1633.jpg"
+	},
+	{
+	"id": 19,
+	"numberOfLikes": 21,
+	"imageUrl": "https://s3-eu-west-1.amazonaws.com/dog-ceo-stanford-files/retriever-golden/n02099601_1743.jpg"
+	},
+	{
+	"id": 20,
+	"numberOfLikes": 12,
+	"imageUrl": "https://s3-eu-west-1.amazonaws.com/dog-ceo-stanford-files/retriever-golden/n02099601_176.jpg"
+	},
+	{
+	"id": 21,
+	"numberOfLikes": 12,
+	"imageUrl": "https://s3-eu-west-1.amazonaws.com/dog-ceo-stanford-files/retriever-golden/n02099601_1768.jpg"
+	},
+	{
+	"id": 22,
+	"numberOfLikes": 25,
+	"imageUrl": "https://s3-eu-west-1.amazonaws.com/dog-ceo-stanford-files/retriever-golden/n02099601_2029.jpg"
+	},
+	{
+	"id": 23,
+	"numberOfLikes": 17,
+	"imageUrl": "https://s3-eu-west-1.amazonaws.com/dog-ceo-stanford-files/retriever-golden/n02099601_2076.jpg"
+	},
+	{
+	"id": 24,
+	"numberOfLikes": 16,
+	"imageUrl": "https://s3-eu-west-1.amazonaws.com/dog-ceo-stanford-files/retriever-golden/n02099601_215.jpg"
+	},
+	{
+	"id": 25,
+	"numberOfLikes": 1,
+	"imageUrl": "https://s3-eu-west-1.amazonaws.com/dog-ceo-stanford-files/retriever-golden/n02099601_2295.jpg"
+	},
+	{
+	"id": 26,
+	"numberOfLikes": 4,
+	"imageUrl": "https://s3-eu-west-1.amazonaws.com/dog-ceo-stanford-files/retriever-golden/n02099601_2358.jpg"
+	},
+	{
+	"id": 27,
+	"numberOfLikes": 67,
+	"imageUrl": "https://s3-eu-west-1.amazonaws.com/dog-ceo-stanford-files/retriever-golden/n02099601_2359.jpg"
+	},
+	{
+	"id": 28,
+	"numberOfLikes": 188,
+	"imageUrl": "https://s3-eu-west-1.amazonaws.com/dog-ceo-stanford-files/retriever-golden/n02099601_238.jpg"
+	},
+	{
+	"id": 29,
+	"numberOfLikes": 17,
+	"imageUrl": "https://s3-eu-west-1.amazonaws.com/dog-ceo-stanford-files/retriever-golden/n02099601_2408.jpg"
+	},
+	{
+	"id": 30,
+	"numberOfLikes": 32,
+	"imageUrl": "https://s3-eu-west-1.amazonaws.com/dog-ceo-stanford-files/retriever-golden/n02099601_2422.jpg"
+	},
+	{
+	"id": 31,
+	"numberOfLikes": 38,
+	"imageUrl": "https://s3-eu-west-1.amazonaws.com/dog-ceo-stanford-files/retriever-golden/n02099601_2440.jpg"
+	},
+	{
+	"id": 32,
+	"numberOfLikes": 1,
+	"imageUrl": "https://s3-eu-west-1.amazonaws.com/dog-ceo-stanford-files/retriever-golden/n02099601_2495.jpg"
+	},
+	{
+	"id": 33,
+	"numberOfLikes": 0,
+	"imageUrl": "https://s3-eu-west-1.amazonaws.com/dog-ceo-stanford-files/retriever-golden/n02099601_2536.jpg"
+	},
+	{
+	"id": 34,
+	"numberOfLikes": 7,
+	"imageUrl": "https://s3-eu-west-1.amazonaws.com/dog-ceo-stanford-files/retriever-golden/n02099601_2663.jpg"
+	},
+	{
+	"id": 35,
+	"numberOfLikes": 3,
+	"imageUrl": "https://s3-eu-west-1.amazonaws.com/dog-ceo-stanford-files/retriever-golden/n02099601_2688.jpg"
+	},
+	{
+	"id": 36,
+	"numberOfLikes": 1,
+	"imageUrl": "https://s3-eu-west-1.amazonaws.com/dog-ceo-stanford-files/retriever-golden/n02099601_2691.jpg"
+	},
+	{
+	"id": 37,
+	"numberOfLikes": 6,
+	"imageUrl": "https://s3-eu-west-1.amazonaws.com/dog-ceo-stanford-files/retriever-golden/n02099601_2796.jpg"
+	},
+	{
+	"id": 38,
+	"numberOfLikes": 27,
+	"imageUrl": "https://s3-eu-west-1.amazonaws.com/dog-ceo-stanford-files/retriever-golden/n02099601_280.jpg"
+	},
+	{
+	"id": 39,
+	"numberOfLikes": 38,
+	"imageUrl": "https://s3-eu-west-1.amazonaws.com/dog-ceo-stanford-files/retriever-golden/n02099601_281.jpg"
+	},
+	{
+	"id": 40,
+	"numberOfLikes": 1,
+	"imageUrl": "https://s3-eu-west-1.amazonaws.com/dog-ceo-stanford-files/retriever-golden/n02099601_286.jpg"
+	},
+	{
+	"id": 41,
+	"numberOfLikes": 0,
+	"imageUrl": "https://s3-eu-west-1.amazonaws.com/dog-ceo-stanford-files/retriever-golden/n02099601_2980.jpg"
+	},
+	{
+	"id": 42,
+	"numberOfLikes": 23,
+	"imageUrl": "https://s3-eu-west-1.amazonaws.com/dog-ceo-stanford-files/retriever-golden/n02099601_2994.jpg"
+	},
+	{
+	"id": 43,
+	"numberOfLikes": 1,
+	"imageUrl": "https://s3-eu-west-1.amazonaws.com/dog-ceo-stanford-files/retriever-golden/n02099601_3004.jpg"
+	},
+	{
+	"id": 44,
+	"numberOfLikes": 12,
+	"imageUrl": "https://s3-eu-west-1.amazonaws.com/dog-ceo-stanford-files/retriever-golden/n02099601_3007.jpg"
+	},
+	{
+	"id": 45,
+	"numberOfLikes": 12,
+	"imageUrl": "https://s3-eu-west-1.amazonaws.com/dog-ceo-stanford-files/retriever-golden/n02099601_304.jpg"
+	},
+	{
+	"id": 46,
+	"numberOfLikes": 45,
+	"imageUrl": "https://s3-eu-west-1.amazonaws.com/dog-ceo-stanford-files/retriever-golden/n02099601_3073.jpg"
+	},
+	{
+	"id": 47,
+	"numberOfLikes": 8,
+	"imageUrl": "https://s3-eu-west-1.amazonaws.com/dog-ceo-stanford-files/retriever-golden/n02099601_308.jpg"
+	},
+	{
+	"id": 48,
+	"numberOfLikes": 9,
+	"imageUrl": "https://s3-eu-west-1.amazonaws.com/dog-ceo-stanford-files/retriever-golden/n02099601_3097.jpg"
+	},
+	{
+	"id": 49,
+	"numberOfLikes": 0,
+	"imageUrl": "https://s3-eu-west-1.amazonaws.com/dog-ceo-stanford-files/retriever-golden/n02099601_3111.jpg"
+	},
+	{
+	"id": 50,
+	"numberOfLikes": 12,
+	"imageUrl": "https://s3-eu-west-1.amazonaws.com/dog-ceo-stanford-files/retriever-golden/n02099601_3202.jpg"
+	},
+	{
+	"id": 51,
+	"numberOfLikes": 56,
+	"imageUrl": "https://s3-eu-west-1.amazonaws.com/dog-ceo-stanford-files/retriever-golden/n02099601_3262.jpg"
+	},
+	{
+	"id": 52,
+	"numberOfLikes": 3,
+	"imageUrl": "https://s3-eu-west-1.amazonaws.com/dog-ceo-stanford-files/retriever-golden/n02099601_3327.jpg"
+	},
+	{
+	"id": 53,
+	"numberOfLikes": 11,
+	"imageUrl": "https://s3-eu-west-1.amazonaws.com/dog-ceo-stanford-files/retriever-golden/n02099601_3360.jpg"
+	},
+	{
+	"id": 54,
+	"numberOfLikes": 12,
+	"imageUrl": "https://s3-eu-west-1.amazonaws.com/dog-ceo-stanford-files/retriever-golden/n02099601_3388.jpg"
+	},
+	{
+	"id": 55,
+	"numberOfLikes": 17,
+	"imageUrl": "https://s3-eu-west-1.amazonaws.com/dog-ceo-stanford-files/retriever-golden/n02099601_3414.jpg"
+	},
+	{
+	"id": 56,
+	"numberOfLikes": 8,
+	"imageUrl": "https://s3-eu-west-1.amazonaws.com/dog-ceo-stanford-files/retriever-golden/n02099601_342.jpg"
+	},
+	{
+	"id": 57,
+	"numberOfLikes": 12,
+	"imageUrl": "https://s3-eu-west-1.amazonaws.com/dog-ceo-stanford-files/retriever-golden/n02099601_345.jpg"
+	},
+	{
+	"id": 58,
+	"numberOfLikes": 12,
+	"imageUrl": "https://s3-eu-west-1.amazonaws.com/dog-ceo-stanford-files/retriever-golden/n02099601_3494.jpg"
+	},
+	{
+	"id": 59,
+	"numberOfLikes": 14,
+	"imageUrl": "https://s3-eu-west-1.amazonaws.com/dog-ceo-stanford-files/retriever-golden/n02099601_3508.jpg"
+	},
+	{
+	"id": 60,
+	"numberOfLikes": 1,
+	"imageUrl": "https://s3-eu-west-1.amazonaws.com/dog-ceo-stanford-files/retriever-golden/n02099601_3569.jpg"
+	},
+	{
+	"id": 61,
+	"numberOfLikes": 33,
+	"imageUrl": "https://s3-eu-west-1.amazonaws.com/dog-ceo-stanford-files/retriever-golden/n02099601_3666.jpg"
+	},
+	{
+	"id": 62,
+	"numberOfLikes": 0,
+	"imageUrl": "https://s3-eu-west-1.amazonaws.com/dog-ceo-stanford-files/retriever-golden/n02099601_3720.jpg"
+	},
+	{
+	"id": 63,
+	"numberOfLikes": 45,
+	"imageUrl": "https://s3-eu-west-1.amazonaws.com/dog-ceo-stanford-files/retriever-golden/n02099601_3738.jpg"
+	},
+	{
+	"id": 64,
+	"numberOfLikes": 23,
+	"imageUrl": "https://s3-eu-west-1.amazonaws.com/dog-ceo-stanford-files/retriever-golden/n02099601_3853.jpg"
+	},
+	{
+	"id": 65,
+	"numberOfLikes": 1,
+	"imageUrl": "https://s3-eu-west-1.amazonaws.com/dog-ceo-stanford-files/retriever-golden/n02099601_3869.jpg"
+	},
+	{
+	"id": 66,
+	"numberOfLikes": 0,
+	"imageUrl": "https://s3-eu-west-1.amazonaws.com/dog-ceo-stanford-files/retriever-golden/n02099601_4005.jpg"
+	},
+	{
+	"id": 67,
+	"numberOfLikes": 67,
+	"imageUrl": "https://s3-eu-west-1.amazonaws.com/dog-ceo-stanford-files/retriever-golden/n02099601_4241.jpg"
+	},
+	{
+	"id": 68,
+	"numberOfLikes": 24,
+	"imageUrl": "https://s3-eu-west-1.amazonaws.com/dog-ceo-stanford-files/retriever-golden/n02099601_4256.jpg"
+	},
+	{
+	"id": 69,
+	"numberOfLikes": 12,
+	"imageUrl": "https://s3-eu-west-1.amazonaws.com/dog-ceo-stanford-files/retriever-golden/n02099601_4312.jpg"
+	},
+	{
+	"id": 70,
+	"numberOfLikes": 12,
+	"imageUrl": "https://s3-eu-west-1.amazonaws.com/dog-ceo-stanford-files/retriever-golden/n02099601_447.jpg"
+	},
+	{
+	"id": 71,
+	"numberOfLikes": 0,
+	"imageUrl": "https://s3-eu-west-1.amazonaws.com/dog-ceo-stanford-files/retriever-golden/n02099601_4651.jpg"
+	},
+	{
+	"id": 72,
+	"numberOfLikes": 3,
+	"imageUrl": "https://s3-eu-west-1.amazonaws.com/dog-ceo-stanford-files/retriever-golden/n02099601_4678.jpg"
+	},
+	{
+	"id": 73,
+	"numberOfLikes": 5,
+	"imageUrl": "https://s3-eu-west-1.amazonaws.com/dog-ceo-stanford-files/retriever-golden/n02099601_473.jpg"
+	},
+	{
+	"id": 74,
+	"numberOfLikes": 1,
+	"imageUrl": "https://s3-eu-west-1.amazonaws.com/dog-ceo-stanford-files/retriever-golden/n02099601_4843.jpg"
+	},
+	{
+	"id": 75,
+	"numberOfLikes": 12,
+	"imageUrl": "https://s3-eu-west-1.amazonaws.com/dog-ceo-stanford-files/retriever-golden/n02099601_4933.jpg"
+	},
+	{
+	"id": 76,
+	"numberOfLikes": 56,
+	"imageUrl": "https://s3-eu-west-1.amazonaws.com/dog-ceo-stanford-files/retriever-golden/n02099601_5.jpg"
+	},
+	{
+	"id": 77,
+	"numberOfLikes": 3,
+	"imageUrl": "https://s3-eu-west-1.amazonaws.com/dog-ceo-stanford-files/retriever-golden/n02099601_5051.jpg"
+	},
+	{
+	"id": 78,
+	"numberOfLikes": 6,
+	"imageUrl": "https://s3-eu-west-1.amazonaws.com/dog-ceo-stanford-files/retriever-golden/n02099601_5132.jpg"
+	},
+	{
+	"id": 79,
+	"numberOfLikes": 1,
+	"imageUrl": "https://s3-eu-west-1.amazonaws.com/dog-ceo-stanford-files/retriever-golden/n02099601_5160.jpg"
+	},
+	{
+	"id": 80,
+	"numberOfLikes": 9,
+	"imageUrl": "https://s3-eu-west-1.amazonaws.com/dog-ceo-stanford-files/retriever-golden/n02099601_5188.jpg"
+	},
+	{
+	"id": 81,
+	"numberOfLikes": 9,
+	"imageUrl": "https://s3-eu-west-1.amazonaws.com/dog-ceo-stanford-files/retriever-golden/n02099601_5240.jpg"
+	},
+	{
+	"id": 82,
+	"numberOfLikes": 0,
+	"imageUrl": "https://s3-eu-west-1.amazonaws.com/dog-ceo-stanford-files/retriever-golden/n02099601_5366.jpg"
+	},
+	{
+	"id": 83,
+	"numberOfLikes": 20,
+	"imageUrl": "https://s3-eu-west-1.amazonaws.com/dog-ceo-stanford-files/retriever-golden/n02099601_544.jpg"
+	},
+	{
+	"id": 84,
+	"numberOfLikes": 31,
+	"imageUrl": "https://s3-eu-west-1.amazonaws.com/dog-ceo-stanford-files/retriever-golden/n02099601_5452.jpg"
+	},
+	{
+	"id": 85,
+	"numberOfLikes": 42,
+	"imageUrl": "https://s3-eu-west-1.amazonaws.com/dog-ceo-stanford-files/retriever-golden/n02099601_5453.jpg"
+	},
+	{
+	"id": 86,
+	"numberOfLikes": 3,
+	"imageUrl": "https://s3-eu-west-1.amazonaws.com/dog-ceo-stanford-files/retriever-golden/n02099601_5544.jpg"
+	},
+	{
+	"id": 87,
+	"numberOfLikes": 1,
+	"imageUrl": "https://s3-eu-west-1.amazonaws.com/dog-ceo-stanford-files/retriever-golden/n02099601_5642.jpg"
+	},
+	{
+	"id": 88,
+	"numberOfLikes": 12,
+	"imageUrl": "https://s3-eu-west-1.amazonaws.com/dog-ceo-stanford-files/retriever-golden/n02099601_5655.jpg"
+	},
+	{
+	"id": 89,
+	"numberOfLikes": 12,
+	"imageUrl": "https://s3-eu-west-1.amazonaws.com/dog-ceo-stanford-files/retriever-golden/n02099601_5679.jpg"
+	},
+	{
+	"id": 90,
+	"numberOfLikes": 0,
+	"imageUrl": "https://s3-eu-west-1.amazonaws.com/dog-ceo-stanford-files/retriever-golden/n02099601_569.jpg"
+	},
+	{
+	"id": 91,
+	"numberOfLikes": 3,
+	"imageUrl": "https://s3-eu-west-1.amazonaws.com/dog-ceo-stanford-files/retriever-golden/n02099601_5709.jpg"
+	},
+	{
+	"id": 92,
+	"numberOfLikes": 12,
+	"imageUrl": "https://s3-eu-west-1.amazonaws.com/dog-ceo-stanford-files/retriever-golden/n02099601_5736.jpg"
+	},
+	{
+	"id": 93,
+	"numberOfLikes": 45,
+	"imageUrl": "https://s3-eu-west-1.amazonaws.com/dog-ceo-stanford-files/retriever-golden/n02099601_5764.jpg"
+	},
+	{
+	"id": 94,
+	"numberOfLikes": 12,
+	"imageUrl": "https://s3-eu-west-1.amazonaws.com/dog-ceo-stanford-files/retriever-golden/n02099601_5857.jpg"
+	},
+	{
+	"id": 95,
+	"numberOfLikes": 3,
+	"imageUrl": "https://s3-eu-west-1.amazonaws.com/dog-ceo-stanford-files/retriever-golden/n02099601_5876.jpg"
+	},
+	{
+	"id": 96,
+	"numberOfLikes": 56,
+	"imageUrl": "https://s3-eu-west-1.amazonaws.com/dog-ceo-stanford-files/retriever-golden/n02099601_5893.jpg"
+	},
+	{
+	"id": 97,
+	"numberOfLikes": 7,
+	"imageUrl": "https://s3-eu-west-1.amazonaws.com/dog-ceo-stanford-files/retriever-golden/n02099601_6099.jpg"
+	},
+	{
+	"id": 98,
+	"numberOfLikes": 3,
+	"imageUrl": "https://s3-eu-west-1.amazonaws.com/dog-ceo-stanford-files/retriever-golden/n02099601_6105.jpg"
+	},
+	{
+	"id": 99,
+	"numberOfLikes": 0,
+	"imageUrl": "https://s3-eu-west-1.amazonaws.com/dog-ceo-stanford-files/retriever-golden/n02099601_6139.jpg"
+	},
+	{
+	"id": 100,
+	"numberOfLikes": 4,
+	"imageUrl": "https://s3-eu-west-1.amazonaws.com/dog-ceo-stanford-files/retriever-golden/n02099601_6194.jpg"
+	}
+	]
+	}
