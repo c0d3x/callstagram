@@ -1,5 +1,5 @@
 import { YellowBox } from 'react-native';
-import { StackNavigator } from 'react-navigation';
+import { createStackNavigator } from 'react-navigation';
 
 import Feed from './src/Feed';
 import Detail from './src/Detail';
@@ -9,7 +9,7 @@ YellowBox.ignoreWarnings([
 	'Warning: componentWillReceiveProps is deprecated',
 ]);
 
-export default StackNavigator({
+export default createStackNavigator({
 	Home: {
 		screen: Feed,
 		navigationOptions: {
