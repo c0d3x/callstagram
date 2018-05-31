@@ -15,7 +15,8 @@ class Feed extends React.Component {
 
 	fetchImages = async () => {
 		const response = await fetch(
-			'https://callstagram-api-muqyymcewo.now.sh/images'
+			'https://my.api.mockaroo.com/callstagram.json?key=beeb6db0'
+			// 'https://callstagram-api-muqyymcewo.now.sh/images'
 		);
 		const { data } = await response.json();
 		this.setState({
