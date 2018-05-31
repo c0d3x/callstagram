@@ -15,13 +15,12 @@ class Feed extends React.Component {
 
 	fetchImages = async () => {
 		const response = await fetch(
-			'https://my.api.mockaroo.com/callstagram.json?key=beeb6db0'
-			// 'https://callstagram-api-muqyymcewo.now.sh/images'
+			'https://callstagram-api.now.sh/api'
 		);
 		const { data } = await response.json();
 		this.setState({
 			isLoading: false,
-			images: data
+			images: []
 		});
 	};
 
